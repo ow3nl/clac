@@ -1,4 +1,4 @@
-# clac
+# functional-clac
 A clac interpreter built in Haskell. Accepts flag -trace and can read clac files.
 
 clac is an esoteric postfix language, which adds integers to a stack and reads tokens from a queue.
